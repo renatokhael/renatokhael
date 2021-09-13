@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Renato Khael](https://renatokhael.dev/)
+# [Hi 👌 I am Renato Khael](https://renatokhael.dev/)
 
 ## About me
 I'm a Brazilian Front-End Developer, passionate about general computing, hardware, open source, security and programming. 
