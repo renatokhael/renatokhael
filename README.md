@@ -17,7 +17,6 @@ I'm a Brazilian Front-End Developer, passionate about general computing, hardwar
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)
   ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![HTML Badge](https://img.shields.io/badge/HTML5-EA3F0E?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS3-0567AA?&style=for-the-badge&logo=css3&logoColor=white)
 
