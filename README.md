@@ -1,7 +1,7 @@
 # [Hi 👌 I am Renato Khael](https://renatokhael.dev/)
 
 ## About me
-I'm a Brazilian Front-End Developer, focused on javascript, reactjs, vuejs, and nodejs, passionate about layout, UI/UX and user satisfaction
+I'm a Brazilian Front-End Developer focused on javascript, reactjs, vuejs, and nodejs. I'm passionate about layout, UI/UX and user satisfaction
 
 * I have a degree in systems analysis (2013)
 * I have an MBA in IT Management (2016)
