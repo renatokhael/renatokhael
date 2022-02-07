@@ -15,9 +15,10 @@ I'm a Brazilian Front-End Developer focused on javascript, reactjs, vuejs, and n
 
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vuejs Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)
   ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![VueJS Badge](https://img.shields.io/badge/Vue.js-339933?style=for-the-badge&logo=vuejs.js&logoColor=white)
+
 
 
 
