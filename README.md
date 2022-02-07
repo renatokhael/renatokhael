@@ -1,4 +1,4 @@
-# [Hi 👌 I am Renato Khael](https://renatokhael.dev/)
+# [Hi!! I'm Renato Khael](https://renatokhael.dev/)
 
 ## About me
 I'm a Brazilian Front-End Developer focused on javascript, reactjs, vuejs, and nodejs. I'm passionate about layout, UI/UX and user satisfaction
