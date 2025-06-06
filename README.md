@@ -5,7 +5,7 @@
 
 <p align="center">Discover my app that teaches React in a fun way: https://reactlingo.com</p>
 <p align="center">Discover my project that connects developers with social causes: https://devdobem.com</p>
-<p align="center">Meet my npm library that measures the performance of React applications: https://www.npmjs.com/package/speedact</p>
+<p align="center">Meet my performance react npm library: https://www.npmjs.com/package/speedact</p>
 
 
 
